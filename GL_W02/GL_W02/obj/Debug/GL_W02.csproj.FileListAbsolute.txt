@@ -1,0 +1,10 @@
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\bin\Debug\GL_W02.exe.config
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\bin\Debug\GL_W02.exe
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\bin\Debug\GL_W02.pdb
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\obj\Debug\GL_W02.csproj.AssemblyReference.cache
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\obj\Debug\GL_W02.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\obj\Debug\GL_W02.Properties.Resources.resources
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\obj\Debug\GL_W02.csproj.GenerateResource.cache
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\obj\Debug\GL_W02.csproj.CoreCompileInputs.cache
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\obj\Debug\GL_W02.exe
+C:\Users\kenanaki\source\repos\GL_W02\GL_W02\obj\Debug\GL_W02.pdb

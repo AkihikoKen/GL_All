@@ -1,0 +1,11 @@
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\bin\Debug\GL_W01.exe.config
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\bin\Debug\GL_W01.exe
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\bin\Debug\GL_W01.pdb
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.csproj.AssemblyReference.cache
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.Form1.resources
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.Properties.Resources.resources
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.csproj.GenerateResource.cache
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.csproj.CoreCompileInputs.cache
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.exe
+C:\Users\kenanaki\source\repos\GL_W01\GL_W01\obj\Debug\GL_W01.pdb
